@@ -1,0 +1,6 @@
+D000101|Max|Muestermann|102.39|fictmarkt.com|23.12.17|23:17:17
+M000101|Jonny|Doe|80.38|markt.de|25.12.17|23:17:17
+M000111|Jack|Doe|60.59|ficmarkt.de|25.12.17|23:17:17
+D000121|Daniel|Mueller|80.38|mmarkt.de|25.12.17|23:17:17
+M000131|Manuel|Ritter|80.38|emarkt.de|25.12.17|23:17:17
+D000141|Janny|Doe|80.38|fmarkt.de|25.12.17|23:17:17
